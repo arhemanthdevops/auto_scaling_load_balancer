@@ -1,0 +1,4 @@
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.37.0/windows_amd64
+terraform.tfstate.backup
